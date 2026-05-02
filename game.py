@@ -7,4 +7,5 @@ while True:
         print("Congratulations! You guessed the number✅.")
         break
     else:
-        print("Wrong guess. Try again!")
+        print("Wrong guess❌. Try again!")
+        
